@@ -7,3 +7,6 @@ mj:
     - guild-id: 1209806890918486026
       channel-id: 1209806890918486029
       user-token: MTE4NzY4Njk3NzQ1ODQyNTkxNg.GT0if4.DNsV5p_M4lyVz_5PsbYbO8HnnYiAyMou_66d_Y
+  proxy:
+    host: vsnwrk.natappfree.cc
+    port: 80
